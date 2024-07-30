@@ -19,7 +19,7 @@ This challenge is a great way to practice basic HTML and CSS skills. The challen
 
 ![Sample](./assets/screenshot/screenshot.avif)
 
-## Links :links:
+## Links :link:
 
 [Live site URL](https://mendezpvi.github.io/dCh-business-blog-card/) 👀
 
